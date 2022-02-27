@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and ordinance of the Lords and Commons in Parliament; for the speedy raising of a body of horse, for the preservation, safety, and peace of the kingdom, to resist the insolencies and outrages committed by the souldiers of the kings army. Which horse are to be raised out of the severall counties within specified; and to be under the command of the right Honorable, Edward Earl of Manchester, who is appointed by this ordinance for this service to be commander in chief, both for horse and foot. : Die Martis, 25 Julii, 1643. / It is this day ordered by the Commons assembled in Parliament, that this ordinance be forthwith printed; and that the knights and burgesses of the severall and respective counties, in which horse are to be raised by direction of this ordinance, do take care that copies hereof be forthwith sent down into their severall and respective counties. ; H: Elsynge, cler. parl d. com.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82592</idno>
+            <idno type="STC">Wing E1304A</idno>
+            <idno type="STC">ESTC R227599</idno>
+            <idno type="EEBO-CITATION">45097674</idno>
+            <idno type="OCLC">ocm 45097674</idno>
+            <idno type="VID">171273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2570:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and ordinance of the Lords and Commons in Parliament; for the speedy raising of a body of horse, for the preservation, safety, and peace of the kingdom, to resist the insolencies and outrages committed by the souldiers of the kings army. Which horse are to be raised out of the severall counties within specified; and to be under the command of the right Honorable, Edward Earl of Manchester, who is appointed by this ordinance for this service to be commander in chief, both for horse and foot. : Die Martis, 25 Julii, 1643. / It is this day ordered by the Commons assembled in Parliament, that this ordinance be forthwith printed; and that the knights and burgesses of the severall and respective counties, in which horse are to be raised by direction of this ordinance, do take care that copies hereof be forthwith sent down into their severall and respective counties. ; H: Elsynge, cler. parl d. com.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+                  <author>Elsynge, Henry, 1598-1654.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Iuly 27. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manchester, Edward Montagu, --  Earl of, 1602-1671.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171273:1" rendition="simple:additions"/>
+            <p>A DECLARATION And Ordinance of the Lords and Commons in PARLIAMENT; For the ſpeedy raiſing of a Body of HORSE, For the Preſervation, Safety, and Peace of the Kingdom, to reſiſt the Inſolencies and Out<g ref="char:EOLhyphen"/>rages committed by the Souldiers of <hi>The Kings Army.</hi>
+            </p>
+            <p>Which Horſe are to be raiſed out of the ſeve<g ref="char:EOLhyphen"/>rall Counties within ſpecified; and to be under the Command of the Right Honorable, <hi>EDWARD</hi> Earl of <hi>Mancheſter,</hi> Who is appointed by this Ordinance for this ſervice to be Commander in chief, both for Horſe and Foot.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Martis,</hi> 25 <hi>Julii,</hi> 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>IT is this day Ordered by the Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, That this Ordinance be forthwith Printed; And that the Knights and Burgeſſes of the ſeverall and reſpective Coun<g ref="char:EOLhyphen"/>ties, in which Horſe are to be raiſed by direction of this Ordi<g ref="char:EOLhyphen"/>nance, do take care that Copies hereof be forthwith ſent down into their ſeverall and reſpective Counties.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>Edward H<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bands.</hi> Iuly 27.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:171273:2"/>
+            <head>A Declaration and Ordinance of the Lords and Commons aſſembled in Parliament, <hi>For raiſing of a Body of Horſe, &amp;c.</hi>
+            </head>
+            <p>THe Lords and Commons taking into their ſad and ſeri<g ref="char:EOLhyphen"/>ous conſideration, the great and manifold miſeries under which the good and well-affected People of this Land now ſuffer, by means of that Popiſh Army which is pretended to be raiſed by the Kings authority; which conſiſting for the moſt part in Horſe, do range and wander up and down the countries, and not onely Plunder, Imbezill, and take away the Goods and Eſtates of the well-affected, but abuſe their Per<g ref="char:EOLhyphen"/>ſons, and very often times deſtroy and kill them: And in a deep ſence and apprehenſion of their ſad and wretched eſtate and condition, being not onely wholly deſerted, and forſaken by thoſe, from whom by the Laws of God and Man they ought to receive Protection, and preſervation from Violence and Injury; but alſo their Perſons &amp; Eſtates expoſed to Ruine and Deſtruction, without any colour or warrant of Legall au<g ref="char:EOLhyphen"/>thority: And the ſaid Lords and Commons having reſolved to apply the uttermoſt of their endeavours, in diſcharge of that great Truſt repoſed in them for the preſervation, peace, and ſafety of the People of this Kingdom, and ſecuring their Perſons and Eſtates from the Rapine and Fury of the Soul<g ref="char:EOLhyphen"/>diers; and finding it moſt neceſſary that a Body of Horſe ſhould be forthwith raiſed, To reſiſt and repell the Inſolencies and Outrages committed by the Souldiers of the Kings Ar<g ref="char:EOLhyphen"/>my; Not doubting but all good people will readily and wil<g ref="char:EOLhyphen"/>lingly contribute their beſt Aſſiſtance, unto a work ſo neceſſa<g ref="char:EOLhyphen"/>ry, for the good of the Kingdom, and their own preſervation; Have thought fit, and do hereby Declare and Ordain, That ſuch number of good, able, and ſufficient Horſes for ſervice (of
+<pb n="3" facs="tcp:171273:3"/>
+which, the Troops of Trained Horſe of each county are to be accompted as part) ſhall be forthwith raiſed in ſuch counties, cities and places, and brought unto ſuch places of Rendevouz, and at ſuch times as are hereafter in this Ordinance mentioned and expreſſed; That is to ſay, within the cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and Suburbs thereof; and the county of <hi>Middleſex,</hi> there ſhall be forthwith raiſed Fifteen hundred Horſe; within the county of <hi>Hertford,</hi> Three hundred Horſe; within the county of <hi>Eſſex,</hi> Five hundred Horſe; within the county of <hi>Surrey,</hi> Three hundred Horſe; within the county of <hi>Suſſex,</hi> Four hundred Horſe; within the county of <hi>Kent,</hi> Six hundred Horſe, of which number the city of <hi>Canterbury</hi> and Cinque-Ports are to bear an equall proportion; within the county of <hi>Buckingham,</hi> Two hundred Horſe; within the county of <hi>Bed<g ref="char:EOLhyphen"/>ford,</hi> Two hundred Horſe; within the county of <hi>Berks,</hi> Two hundred Horſe; within the county of <hi>Southampton,</hi> Five hun<g ref="char:EOLhyphen"/>dred Horſe; within the county of <hi>Cambridge</hi> and Iſle of <hi>Ely,</hi> Two hundred Horſe; within the county of <hi>Huntingdon,</hi> One hundred Horſe; within the county of <hi>Suffolk,</hi> Five hundred Horſe; within the county of <hi>Norfolk,</hi> Six hundred Horſe, of which the city of <hi>Norwich</hi> is to bear an equall proportion; and within the county of <hi>Northampton,</hi> Four hundred Horſe. And it is further Ordained, That ſuch of the Trained Horſe of <hi>London, Weſtminſter,</hi> and the county of <hi>Middleſex,</hi> and ſuch others as are already raiſed within the ſaid cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and county of <hi>Middleſex,</hi> do meet in <hi>Tothill</hi>-fields in <hi>Weſtminſter,</hi> on the Five and twentieth of this inſtant <hi>July,</hi> and the reſt appointed by this Ordinance to be raiſed within the ſaid cities and county, to make up the number of Fifteen hundred on the Fourth of <hi>Auguſt</hi> next; and the Trained Horſe of the counties of <hi>Eſſex,</hi> and <hi>Kent,</hi> and ſuch other Horſe as are already raiſed within the ſaid counties, are to meet in <hi>Tothill</hi>-fields in <hi>Weſtminſter</hi> on Friday next, the Eight and twentieth of this inſtant <hi>July;</hi> and the reſt appointed by this Ordinance
+<pb n="4" facs="tcp:171273:4"/>
+to be raiſed to make up the proportions allotted upon the ſe<g ref="char:EOLhyphen"/>verall counties, are to meet at the ſaid Rendevouz on the the Fourth of <hi>Auguſt</hi> next; and the Trained-Horſe of the counties of <hi>Suffolk, Norfolk, Cambridge,</hi> Iſle of <hi>Ely,</hi> and <hi>Hun<g ref="char:EOLhyphen"/>tingdon,</hi> and ſuch other Horſe as are already raiſed within the ſaid counties, are to meet at <hi>Cambridge</hi> on the Firſt of <hi>Auguſt</hi> next; and the reſt appointed by this Ordinance to be raiſed, to make up the proportions allotted upon theſe ſeverall counties, are to meet at the ſaid Rendevouz on the Eight of <hi>Auguſt</hi> next; and the Trained-Horſe of the counties of <hi>Surrey, Suſſex, Southampton</hi> and <hi>Berks,</hi> and ſuch other Horſe as are already raiſed within the ſaid counties, are to meet at <hi>Windſor</hi> on the Eight and twentieth of this inſtant <hi>July;</hi> and the reſt appoint<g ref="char:EOLhyphen"/>ed by this Ordinance to be raiſed, to make up the proportions allotted upon theſe ſeverall counties, are to meet at the ſaid Rendevouz on the Fourth of <hi>Auguſt</hi> next; and the Trained-Horſe of <hi>Hertfordſhire, Bedfordſhire, Northamptonſhire,</hi> and <hi>Buck<g ref="char:EOLhyphen"/>inghamſhire,</hi> and ſuch other Horſe as are already raiſed within the ſaid counties, are to meet at <hi>Bedford</hi> on the Firſt of <hi>Auguſt</hi> next; and the reſt appointed by this Ordinance to be raiſed, to make up the proportions allotted upon theſe ſeverall coun<g ref="char:EOLhyphen"/>ties, are to meet at the ſaid Rendevouz on the Eight of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> next.</p>
+            <p>And be it further Ordained by the authority aforeſaid, That the ſeverall and reſpective Deputy-Lieutenants and Commit<g ref="char:EOLhyphen"/>tees of Parliament, of the ſeverall and reſpective cities, coun<g ref="char:EOLhyphen"/>ties, and places aforeſaid, and every Two of them, are hereby authorized and required to cauſe this Ordinance to be put in due, full, and ſpeedy execution, and to uſe all poſſible dilli<g ref="char:EOLhyphen"/>gence and circumſpection in the taking and lifting of ſuch Horſes, that the ſame may be done with ſuch indifferency and equality, that as little offence may be given to the well-affected party as may be: And to the end that this work may be car<g ref="char:EOLhyphen"/>ryed on with Expedition, and that the Deputy-Lieutenants
+<pb n="5" facs="tcp:171273:4"/>
+and Committees of Parliament, unto whoſe care and fidelity the ſame is ſpecially intruſted and recommended, as abſolute<g ref="char:EOLhyphen"/>ly neceſſary, not onely for ſafety and preſervation unto thoſe counties, but even to the whole kingdom, to be forthwith di<g ref="char:EOLhyphen"/>ſpatched, may be armed with power ſufficient for the effecting of the ſame. Be it likewiſe Declared: and Ordained, That it ſhall and may be lawfull to and for the ſaid ſeverall and re<g ref="char:EOLhyphen"/>ſpective Deputy-Lieutenants and Committees of Parliament, or any two of them as aforeſaid, to take and ſeize the Horſe or Horſes of any perſon within any of the ſeverall and reſpe<g ref="char:EOLhyphen"/>ctive cities, counties, or places as aforeſaid, and them to Liſt and Inroll, and cauſe to be brought to the reſpective Rende<g ref="char:EOLhyphen"/>vouze, appointed as aforeſaid.</p>
+            <p>And if any perſon ſhall ſhew himſelf oppoſite or refractory unto this ſervice, ſo as the ſame by means thereof ſhall be de<g ref="char:EOLhyphen"/>layed, moleſted or interrupted, it ſhall and may be lawfull to and for the ſaid Deputy-Lieutenants and Committees of Par<g ref="char:EOLhyphen"/>liament reſpectively, or any two of them, to impoſe a reaſona<g ref="char:EOLhyphen"/>ble Fine on ſuch perſon for ſuch his contempt to this Ordi<g ref="char:EOLhyphen"/>nance, and diſturbance to this ſo neceſſary a ſervice; and the ſame Fine to leavie, by impriſonment of his Body, and ſeque<g ref="char:EOLhyphen"/>ſtration of his Eſtate, untill the ſame ſhall be fully ſatisfied.</p>
+            <p>And full power and authority is hereby likewiſe given unto the ſaid ſeverall and reſpective Deputy-Lieutenants and Com<g ref="char:EOLhyphen"/>mittees of Parliament as aforeſaid, to uſe all good and lawfull wayes and means for the effecting of this ſervice, as in their wiſdom, judgement and diſcretion ſhall be thought moſt con<g ref="char:EOLhyphen"/>ducing to the advancing thereof. And the ſaid Deputy-Lieu<g ref="char:EOLhyphen"/>tenants and Committees of Parliament as aforeſaid, are to take care that able and ſufficient Riders of the ſeverall horſes afore<g ref="char:EOLhyphen"/>ſaid, be provided of good and fitting Men, and of ſuch perſons as are well-affected to this ſervice; who are alſo to have pro<g ref="char:EOLhyphen"/>vided and ſent for every Souldier and Horſe, one Moneths pay beforehand, by one fitting and ſufficient perſon, who is to
+<pb n="6" facs="tcp:171273:5"/>
+continue with the ſaid Horſe as Paymaſter; which Money is to be raiſed and leavyed out of the ſeverall and reſpective counties, cities and places, in ſuch manner as by the ſaid ſeve<g ref="char:EOLhyphen"/>rall and reſpective Deputy-Lieutenants and Committees of Parliament, or any two of them, ſhall be thought moſt indif<g ref="char:EOLhyphen"/>ferent and convenient: And if any perſon ſhall refuſe, or neg<g ref="char:EOLhyphen"/>lect to pay any ſum of Money, whereat he ſhall be rated or aſ<g ref="char:EOLhyphen"/>ſeſſed, that then it ſhall and may be lawfull to and for the ſaid Deputy-Lieutenants and Committees of Parliament, or any two of them, to appoint a Diſtreſſe of the Goods of ſuch per<g ref="char:EOLhyphen"/>ſon to be taken, and to be ſold for ſatisfaction of the ſame.</p>
+            <p>And it is further Ordained, That <hi>Edward</hi> Earl of <hi>Manche<g ref="char:EOLhyphen"/>ſter</hi> ſhall command in chief, all the Horſe and Foot that ſhall be raiſed in the counties aforeſaid by virtue of this Ordinance. And it is likewiſe Ordained, That the reſpective Deputy-Lieutenants, Committees, and perſons imployed by them of the counties, and cities of <hi>London, Weſtminſter, Middleſex, Eſ<g ref="char:EOLhyphen"/>ſex,</hi> and <hi>Kent,</hi> do deliver the Horſes of their ſeverall counties and cities, raiſed and to be raiſed as aforeſaid, unto the Earl of <hi>Mancheſter,</hi> or in his abſence to Colonell <hi>de Mazeris,</hi> appointed hereby to command the ſaid Horſe under the ſaid Earl of <hi>Mancheſter,</hi> and to Train and Exerciſe them, and to imploy them for the defence of the ſaid counties, as cauſe ſhall require, untill ſuch time as further Order ſhall be taken by the Lords and Commons now aſſembled in Parliament. And it is fur<g ref="char:EOLhyphen"/>ther Ordained, That the ſaid Earl of <hi>Mancheſter,</hi> or the ſaid Colonell <hi>de Mazeris</hi> ſhall give in writing under his hand a per<g ref="char:EOLhyphen"/>fect Liſt of the numbers of Horſe and Arms he receives of the ſeverall counties: For the which Horſe and Arms, the ſe<g ref="char:EOLhyphen"/>verall counties and perſons who furniſh the ſame, ſhall have the Publique-Faith for repayment and ſatisfaction. And it is further Ordained, That the reſpective Deputy-Lieutenants, Committees, and perſons imployed by them of the counties of <hi>Bedford, Buckingham, Northampton,</hi> and <hi>Hertford,</hi> do deliver
+<pb n="7" facs="tcp:171273:6"/>
+the Horſes of their ſeverall counties, raiſed and to be raiſed as aforeſaid, unto the ſaid Earl of <hi>Mancheſter,</hi> or in his abſence to Sir <hi>John Norrige,</hi> appointed hereby to command the ſaid Horſe under the ſaid Earl of <hi>Mancheſter;</hi> and to Train and Ex<g ref="char:EOLhyphen"/>erciſe them, and to imploy them for the defence of the ſaid counties, as cauſe ſhall require, untill ſuch time as further Or<g ref="char:EOLhyphen"/>der ſhal be taken by the Lords and Commons now aſſembled in Parliament. And it is further Ordained, That the ſaid Earl of <hi>Mancheſter,</hi> or the ſaid Sir <hi>John Norrige,</hi> ſhall give in wri<g ref="char:EOLhyphen"/>ting under his hand, a perfect Liſt of the number of Horſe and Arms he receives of the ſeverall counties; for the which Horſe and Arms, the ſeverall counties and perſons who furniſh the ſame, ſhall have the Publique-Faith for repayment and ſatiſ<g ref="char:EOLhyphen"/>faction. And it is alſo Ordained, That the reſpective Deputy-Lieutenants, Committees, and perſons imployed by them of the counties of <hi>Norfolk</hi> and <hi>Suffolk,</hi> do deliver the Horſes of their ſeverall counties unto the ſaid Earl of <hi>Mancheſter,</hi> or in his abſence to Sir <hi>Miles Hubbard,</hi> appointed hereby to com<g ref="char:EOLhyphen"/>mand the ſaid Horſes under the ſaid Earl, and to Train and Exerciſe them, and to imploy them for the defence of the ſaid counties as cauſe ſhall require, untill ſuch time as further Or<g ref="char:EOLhyphen"/>der ſhalbe taken by the Lords &amp; Co<g ref="char:cmbAbbrStroke">̄</g>mons in Parl. And it is fur<g ref="char:EOLhyphen"/>ther Ordained, that the ſaid Earl, or the ſaid Sir <hi>Miles Hubbard</hi> ſhall give in writing under his hand, a perfect Liſt of the num<g ref="char:EOLhyphen"/>ber of Horſe and Arms he receives of the ſeverall counties; for the which Horſe and Arms the ſeverall counties and perſons who furniſh the ſame, ſhall have the Publique-Faith for repay<g ref="char:EOLhyphen"/>ment and ſatisfaction. And it is alſo Ordained, That the re<g ref="char:EOLhyphen"/>ſpective Deputy-Lieutenants, Committees, and perſons im<g ref="char:EOLhyphen"/>ployed by them of the counties of <hi>Huntingdon, Cambridge,</hi> and Iſle of <hi>Ely,</hi> do deliver the Horſes of their ſeverall counties, un<g ref="char:EOLhyphen"/>to the ſaid Earl of <hi>Mancheſter,</hi> or in his abſence to Colonell <hi>Oliver Cromwell,</hi> appointed hereby to command the ſaid Horſe under the ſaid Earl of <hi>Mancheſter,</hi> and to Train and Exerciſe
+<pb n="8" facs="tcp:171273:7" rendition="simple:additions"/>
+them, and to imploy them for the defence of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as cauſe ſhall require, untill ſuch time as further Order <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> taken by the Lords and Commons now aſſembled in Par<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment. And it is further Ordained, That the ſaid Earl, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Colonell <hi>Cromwell</hi> ſhall give in writing under his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> perfect Liſt of the number of Horſe and Arms he receive<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſeverall counties; for the which Horſe and Arms, the ſe<g ref="char:EOLhyphen"/>verall counties and perſons who furniſh the ſame, ſhall have the Publique-Faith for repayment and ſatisfaction. And be it laſtly Ordained, That the reſpective Deputy-Lieutenants, Committees, and perſons imployed by them of the counties of <hi>Surrey, Suſſex, Southampton</hi> and <hi>Berks,</hi> do deliver the Horſes of their ſeverall counties, unto the ſaid Earl of <hi>Mancheſter,</hi> or in his abſence to Colonell <hi>Richard Norton,</hi> appointed likewiſe hereby to command the ſaid Horſe under the ſaid Earl of <hi>Mancheſter,</hi> and to Train and Exerciſe them, and to imploy them for the defence of the ſaid counties as cauſe ſhall require, untill ſuch time as further Order ſhall be taken by the Lords and Commons now aſſembled in Parliament. And it is fur<g ref="char:EOLhyphen"/>ther Ordained, That the ſaid Earl of <hi>Mancheſter,</hi> or the ſaid Colonell <hi>Norton,</hi> ſhall give in writing under his hand, a per<g ref="char:EOLhyphen"/>fect Liſt of the number of Horſe and Arms he receives of the ſeverall counties and perſons who furniſh the ſame, ſhall have the Publique-Faith for repayment and ſatisfaction.</p>
+            <p>Provided alwayes, that this Ordinance ſhall not extend to the Horſes, Mares, or Geldings of any Peer, or Member of the Houſe of Peers, nor to the Horſes, Mares, or Geldings of any Aſſiſtant or Attendant in the ſaid Houſe of Peers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
